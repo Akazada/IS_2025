@@ -1,6 +1,7 @@
 # IS_2025
 <img width="1000" height="571" alt="image" src="https://github.com/user-attachments/assets/1e4b3af5-a383-4f16-8baf-2cd075448225" />
 ***
+
 1. Think about the last app you used on your phone. 📱 What are its core hardware, software, and data components? What problem does it solve for you? 🤔💡⚙️
     
     Hint: 從你常用的手機應用程式，思考它的組成要素與目的。
