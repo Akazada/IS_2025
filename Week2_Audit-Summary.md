@@ -4,8 +4,7 @@ Mission 1	(Lab 1: PC Software) Select the 3 most critical software programs for 
      2. Screenshot: A screen capture showing the programs running or in the application list.	Software, Processes (軟體, 流程)
      
      1	Microsoft Excel	Microsoft Corporation	Microsoft 365	Spreadsheet / Data Analysis 
-     <img width="371" height="600" alt="image" src="https://github.com/user-attachments/assets/75849fdb-0e3e-4ee9-a28e-64e02577cbc9" />
-     
+     <img width="51" height="64" alt="image" src="https://github.com/user-attachments/assets/e24d17d9-7cdd-479f-bc9f-6336cf49b047" />
      2	Google Chrome	Google LLC	117.0.5938.132	Web Browser
      <img width="34" height="33" alt="image" src="https://github.com/user-attachments/assets/e8112d9e-4a34-4e1b-a5f4-c6f56e4e5a37" />
      3	Visual Studio Code	Microsoft Corporation	1.83.1	Code Editor / Text Processing
@@ -34,6 +33,7 @@ Mission 4	(Lab 2: Productivity App) Identify 1 "Productivity" App on your phone 
      2. Screenshot: A capture of the App's functional interface (e.g., a to-do list or tracking screen).	Processes, Software (流程, 軟體)
      
      1 Microsoft To Do  Microsoft Corporation  109.1041 Productivity
+     
      <img width="435" height="258" alt="image" src="https://github.com/user-attachments/assets/b5a8bd9c-d505-4a44-a6f7-d6d4ec5f35ae" />
 
 ## Mission Block II: Hardware & OS Audit (硬體與作業系統審核)
@@ -41,17 +41,20 @@ Mission 4	(Lab 2: Productivity App) Identify 1 "Productivity" App on your phone 
 Mission 5	(Lab 3: Operating System) Record the Operating System Name and Version for both your PC and Mobile Phone.	
      1. Table: Record the OS information (per Lab 3 format).
      2. Screenshot: A screenshot of the "About" page (showing the OS version) for both your PC and phone.	Hardware, Software (硬體, 軟體)
+     1  PC  Windows 11  23H2
+     2  Mobile  iOS  18.5
 
-     
 Mission 6	(Lab 3: Total Storage) Record the Total Storage Capacity for both your PC and Mobile Phone.	
      1. Table: Record the storage information (per Lab 3 format).
      2. Screenshot: A screenshot of the "Storage Settings" page (proving total capacity) for both devices.	Hardware, Data (硬體, 數據)
-
-     
-     
+   
+     <img width="258" height="60" alt="image" src="https://github.com/user-attachments/assets/439e7e03-0e93-4020-9df8-12472c1c464b" />
+ 
 Mission 7	(Lab 3: Available Storage) Record the Current Available Storage for both your PC and Mobile Phone.	
      1. Table: Record the available storage information (per Lab 3 format).
      2. Screenshot: A screenshot of the "Storage Settings" page (proving available space) for both devices.	Hardware, Data (硬體, 數據)
+
+     <img width="251" height="51" alt="image" src="https://github.com/user-attachments/assets/c30ce76b-2b97-4679-a2e4-049c57c68aaf" />
 
 
 ## Mission Block III: Integration & Reflection (整合與反思)
@@ -59,10 +62,16 @@ Mission 7	(Lab 3: Available Storage) Record the Current Available Storage for bo
 Mission 8	(Data Volume Reflection) Based on the data from Missions 6 & 7, calculate which device (PC or phone) has a higher Data Occupancy Ratio (Used Space / Total Capacity).
 📝 Text Answer: Clearly write down the calculation and conclusion.	Data, Hardware (數據, 硬體)
 
+<img width="517" height="186" alt="image" src="https://github.com/user-attachments/assets/05f24722-d8ea-44e4-b4a3-f95e96cfea68" />
 
 Mission 9	(System Dependency) During Missions 1-7, which IS element—Hardware or Software—took you the longest to verify? Briefly explain why.	
 📝 Text Answer: Explain whether checking hardware or software was more time-consuming, and provide the rationale.	System (系統)
 
+This is because:
+Software programs often require opening multiple applications to check their names, versions, and functions.
+Some software may be hidden or run in the background, making it harder to find and confirm.
+Conversely, hardware information like storage capacity or operating system version is usually easier to locate through system settings or device info pages.
+Therefore, the software verification process was more time-consuming due to the need to explore multiple programs and software details.
 
 Mission 10	(GitHub Documentation) Organize all tables, text answers, and all required screenshots from Missions 1-9, and make sure them to your GitHub repository professionally.
 Copy your completed link into our intaction sheet.	People, Processes (人員, 流程)
