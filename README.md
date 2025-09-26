@@ -91,13 +91,30 @@
    Problem: Process integration failure or API incompatibility.
    例子：學校信箱與選課系統不同步
    原因：流程整合失敗或API不相容
-
-
-
-
-
-
-
+6. The Process of Creating "Information": When you write a weekly summary for a class project, you are acting as an Information System. Which step in your process (e.g., filtering, synthesizing, summarizing) is the most critical for turning data into quality information? 在你寫作業週報的流程中，哪一步驟最關鍵地將原始資料轉化為有用的資訊？	Processes, Information
+   Most critical step: Summarizing and filtering.
+   最重要的步驟是摘要與過濾
+   This step helps turn raw input into clear and useful insights.
+7. Hardware's Invisible Role: Beyond your personal computer, where does the crucial hardware for a large-scale system like LINE or WeChat actually reside? Name one type of hidden hardware and its function.
+   LINE/WeChat這類大型系統，其關鍵硬體（非你的手機）隱藏在哪裡？並說明它的作用。	Hardware, System
+   Hidden hardware: Cloud servers or data centers.
+   Function: Store messages, handle requests, sync data.
+   隱藏硬體：雲端伺服器或資料中心
+   作用：儲存訊息、處理請求、資料同步
+8. Software as the 'Logic': Imagine a simple elevator system. The software is the logic. If the elevator ignores a call because it's full, which part of the IS definition is the software enforcing? (Hint: Think about rules).
+   電梯系統的軟體執行了「滿載不回應呼叫」的邏輯，這符合資訊系統定義中的哪一個要素？ Software, Processes
+   This enforces Processes (business rules) through software logic.
+   這代表軟體正在執行「流程」（如：滿載→忽略呼叫）
+9. Identifying a True Information System: Is a simple spreadsheet (like a Google Sheet) used to track inventory a complete Information System? Using the full definition (H/S/D/P/P), what is it missing or what component is the weakest?
+   簡單的試算表是否構成一個完整的資訊系統？根據五要素，它最欠缺或最弱的是哪個部分？ Information System (IS)
+   It may lack Processes or People components.
+   它可能缺少流程設計或人員參與，因此不完全構成完整資訊系統。
+10. The Purpose of IS in Your Career: Based on the IS purpose (support decision-making, communication, operations), which of these three goals will be the most valuable to your future job in Information Management? Why?
+   根據IS的三大目的，哪一個對你未來資管職涯最有價值？為什麼？	Purpose of IS
+   Most valuable: Decision-making support.
+   Reason: Info Management roles rely heavily on data-driven decisions.
+   最重要：決策支援
+   原因：資管職業需要根據數據做出明智決
 
 
 
