@@ -51,6 +51,47 @@
         Simple Expense Tracker App: An app that automatically categorizes purchases based on receipt scanning or bank transactions. It would provide easy-to-read visuals (graphs, charts) showing my spending habits.
         Budget Alerts: The system would allow me to set a budget for different categories (food, entertainment, etc.), and notify me when I’m close to reaching or exceeding the limit.
         Goal Setting: It could also let me set saving goals (e.g., save $500 in 3 months) and track my progress. The system would help me make more conscious spending decisions by visualizing how small purchases add up.
+   ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
