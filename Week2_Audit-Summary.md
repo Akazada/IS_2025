@@ -4,7 +4,9 @@ Mission 1	(Lab 1: PC Software) Select the 3 most critical software programs for 
      2. Screenshot: A screen capture showing the programs running or in the application list.	Software, Processes (軟體, 流程)
      
      1	Microsoft Excel	Microsoft Corporation	Microsoft 365	Spreadsheet / Data Analysis 
+     
      <img width="47" height="57" alt="image" src="https://github.com/user-attachments/assets/befa1f72-8e08-4b89-8c33-71f9b9154369" />
+     
      2	Google Chrome	Google LLC	117.0.5938.132	Web Browser
      <img width="34" height="33" alt="image" src="https://github.com/user-attachments/assets/e8112d9e-4a34-4e1b-a5f4-c6f56e4e5a37" />
      3	Visual Studio Code	Microsoft Corporation	1.83.1	Code Editor / Text Processing
