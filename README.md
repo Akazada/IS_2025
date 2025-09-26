@@ -68,11 +68,29 @@
    Software: E-commerce platform (e.g., Amazon app).
    硬體：網頁伺服器或手機
    軟體：電子商務平台（如Amazon或蝦皮App）
-
-
-
-
-
+3. 'People' as IS Components: Think about your experience with university registration. Who are the different "People" involved in that system (not just you), and what unique process does each person enable?
+   在大學選課系統中，除了你之外還有哪些人參與，他們各司其職負責什麼流程？People, Processes
+   Student – selects courses.
+   Teacher – approves or manages courses.
+   Admin staff – sets system rules.
+   IT staff – maintains system.
+   學生：選課
+   老師：審核與管理課程
+   教務人員：設定規則
+   IT人員：維護系統
+4. From Data to Actionable Information: You use a fitness tracker (or health app). What is one type of raw data it collects, and how does the system transform it into actionable information that makes you change your behavior?
+   健康追蹤App如何將你每日的數據轉換成讓你做出決策或改變行為的資訊？Data, Information, Decision-Making
+   Raw data: steps taken per day.
+   Information: App tells you “You’ve walked 3,000 steps, 7,000 left.”
+   This may encourage you to walk more.
+   原始數據：每日步數
+   資訊：App提示「今日已走3,000步，距離目標還差7,000步」→ 鼓勵你多運動
+5. Failure of Integration: Describe a time when two systems (e.g., your university email and the course system) failed to work together smoothly. Was this a failure of data, software, or process integration? Explain briefly.
+   兩個系統無法順暢整合時（如校內系統），你認為是數據、軟體還是流程出了問題？System, Processes, Integration
+   Example: University email and course portal didn’t sync.
+   Problem: Process integration failure or API incompatibility.
+   例子：學校信箱與選課系統不同步
+   原因：流程整合失敗或API不相容
 
 
 
