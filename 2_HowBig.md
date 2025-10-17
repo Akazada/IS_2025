@@ -21,3 +21,31 @@
 | EiB        | Exbibyte   | 1,024 PiB = 2⁶⁰ Bytes    |
 | ZiB        | Zebibyte   | 1,024 EiB = 2⁷⁰ Bytes    |
 | YiB        | Yobibyte   | 1,024 ZiB = 2⁸⁰ Bytes    |
+
+***
+
+CPU (Central Processing Unit)
+Function: General-purpose processor that executes operating systems, applications, and manages hardware resources.
+Architecture: Usually has a small number of powerful cores (4–16 cores), good at sequential tasks and multitasking.
+Use cases: Everyday computing, office software, web browsing, gaming, etc.
+Examples: Intel Core i7, AMD Ryzen 7.
+
+GPU (Graphics Processing Unit)
+Function: Designed for parallel processing, excels at handling large amounts of similar operations simultaneously.
+Architecture: Contains hundreds to thousands of cores optimized for parallel data processing.
+Use cases: Gaming graphics rendering, scientific computing, deep learning training.
+Examples: NVIDIA RTX 3080, AMD Radeon RX 6800.
+
+TPU (Tensor Processing Unit)
+Function: Google’s custom accelerator designed specifically for deep learning matrix operations.
+Architecture: Contains large numbers of matrix multiplication units optimized for tensor operations.
+Use cases: Large-scale machine learning training and inference, primarily used in Google Cloud.
+Examples: TPU v4, TPU v7.
+
+NPU (Neural Processing Unit)
+Function: Specialized accelerator optimized for neural network inference tasks.
+Architecture: Typically integrated into mobile devices, supports low-precision operations like INT8 or INT4 for efficiency.
+Use cases: AI applications on mobile devices, such as voice recognition, image recognition.
+Examples: Apple Neural Engine (ANE), Qualcomm Hexagon NPU.
+
+
