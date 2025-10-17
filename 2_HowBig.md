@@ -48,4 +48,37 @@ Architecture: Typically integrated into mobile devices, supports low-precision o
 Use cases: AI applications on mobile devices, such as voice recognition, image recognition.
 Examples: Apple Neural Engine (ANE), Qualcomm Hexagon NPU.
 
+***
+
+### Hardware 硬體
+Definition (英文)： The physical, tangible parts of a computer or electronic device.
+定義 (中文)： 電腦或電子設備中有形且可觸摸的部分。
+Examples (英文)： CPU, RAM, hard drives, motherboard, GPU, keyboard, mouse, monitor.
+例子 (中文)： 中央處理器（CPU）、記憶體（RAM）、硬碟、主機板、顯示卡、鍵盤、滑鼠、螢幕等。
+Function (英文)： Hardware executes the instructions given by software and forms the foundation of a computer system.
+功能 (中文)： 硬體負責執行軟體的指令，是電腦運作的基礎。
+
+### Software 軟體
+Definition (英文)： The intangible programs and data that run on a computer system.
+定義 (中文)： 電腦系統中無形的程式與資料。
+Examples (英文)： Operating systems (Windows, macOS, Linux), applications (browsers, word processors, games), drivers.
+例子 (中文)： 作業系統（Windows、macOS、Linux）、應用程式（瀏覽器、文書軟體、遊戲）、驅動程式等。
+Function (英文)： Software controls hardware operations and performs specific tasks.
+功能 (中文)： 軟體控制硬體運作，完成特定功能和任務。
+
+| 類別 (Category)       | 說明 (Description)                                    | 範例 (Examples)                           |
+|-----------------------|-----------------------------------------------------|------------------------------------------|
+| 作業系統 (Operating Systems) | 管理硬體資源與提供基礎服務的軟體                     | Windows, macOS, Linux                     |
+| 應用程式 (Application Software) | 針對特定任務設計的軟體                               | 瀏覽器 (Chrome, Firefox)、文書軟體 (Word, Google Docs)、遊戲 (Minecraft, LOL) |
+| 系統軟體 (System Software)       | 支援電腦基本運作的軟體，包含驅動程式、工具程式等       | 裝置驅動程式、系統工具、殺毒軟體         |
+| 程式開發軟體 (Development Software) | 用來撰寫、測試和維護軟體的工具                       | IDE (Visual Studio, Eclipse)、編譯器 (GCC) |
+| 嵌入式軟體 (Embedded Software)   | 用於硬體設備中的專用軟體，控制裝置功能               | 智能手機韌體、汽車控制系統軟體           |
+| 中間件 (Middleware)               | 連接不同軟體應用，幫助溝通與數據管理                   | 伺服器軟體、API 管理工具                 |
+
+
+
+
+
+
+
 
