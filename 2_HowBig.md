@@ -76,9 +76,17 @@ Function (英文)： Software controls hardware operations and performs specific
 | 中間件 (Middleware)               | 連接不同軟體應用，幫助溝通與數據管理                   | 伺服器軟體、API 管理工具                 |
 
 
+### Java
+English:
+Java is a popular, high-level programming language used for building applications across platforms. It’s known for its portability (“write once, run anywhere”), object-oriented structure, and robustness. Java is widely used for web applications, Android apps, enterprise software, and more.
+中文：
+Java 是一種流行的高階程式語言，用於跨平台應用程式開發。它以「一次編寫，到處執行」（write once, run anywhere）、物件導向及穩定性著稱。Java 廣泛應用於網頁應用、Android 手機應用、大型企業軟體等。
 
-
-
+### Google
+English:
+Google is a global technology company best known for its search engine, but it also provides many software products and services such as Gmail, Google Drive, Google Maps, Android OS, and cloud computing platforms. Google’s tools are widely used for personal and business productivity.
+中文：
+Google 是一家全球科技公司，以搜尋引擎聞名，同時提供多種軟體產品與服務，如 Gmail、Google 雲端硬碟、Google 地圖、Android 作業系統及雲端運算平台。Google 的工具廣泛應用於個人和商業生產力提升。
 
 
 
