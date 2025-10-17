@@ -88,5 +88,29 @@ Google is a global technology company best known for its search engine, but it a
 中文：
 Google 是一家全球科技公司，以搜尋引擎聞名，同時提供多種軟體產品與服務，如 Gmail、Google 雲端硬碟、Google 地圖、Android 作業系統及雲端運算平台。Google 的工具廣泛應用於個人和商業生產力提升。
 
+***
+
+### ERP
+企業資源規劃系統
+Enterprise Resource Planning
+整合企業內部資源（如財務、人力、製造、供應鏈）的一體化管理系統，提高效率與協同合作。
+A system that integrates internal business processes (finance, HR, production, etc.) to improve efficiency and coordination.
+<img width="900" height="447" alt="image" src="https://github.com/user-attachments/assets/1424c957-1374-4e4f-94ab-347ae05d5314" />
+
+### CRM
+客戶關係管理系統
+Customer Relationship Management
+幫助企業管理與客戶的互動與資料，提升銷售、行銷和客戶服務的效率與關係。
+A system that helps businesses manage interactions with customers to improve sales, marketing, and support.
+<img width="960" height="500" alt="image" src="https://github.com/user-attachments/assets/c2b66fe9-a6cc-4a27-93c2-4e3840e21a64" />
+
+### SCM
+供應鏈管理系統
+Supply Chain Management
+管理產品從原料到交付給客戶的整個流程，包括採購、生產、物流等，提高供應效率與成本控制。
+A system for managing the entire flow of goods from raw materials to customer delivery, including procurement, manufacturing, and logistics.
+<img width="2000" height="721" alt="image" src="https://github.com/user-attachments/assets/fc03e2fb-887f-4b61-b1fe-4ca8fa7265bb" />
+
+
 
 
