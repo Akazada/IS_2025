@@ -14,3 +14,5 @@
 
 ### Own case
 
+<img width="1600" height="1600" alt="training_category_pie" src="https://github.com/user-attachments/assets/a0352b1b-622c-4b9d-8485-10c6d25c85ed" />
+<img width="1600" height="1000" alt="training_willingness_bar" src="https://github.com/user-attachments/assets/b283c7cf-4177-4847-a4e9-a726f13d285f" />
