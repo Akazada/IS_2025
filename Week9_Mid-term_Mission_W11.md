@@ -9,5 +9,7 @@
 <img width="798" height="488" alt="image" src="https://github.com/user-attachments/assets/b7e5c70f-8b48-414c-bb63-65102647467d" />
 <img width="836" height="762" alt="image" src="https://github.com/user-attachments/assets/758f3b95-00a3-4175-b046-426c2b398327" />
 <img width="798" height="472" alt="image" src="https://github.com/user-attachments/assets/158e1640-2777-44c7-b287-c59489431b87" />
+
 ***
+
 ### Own case
