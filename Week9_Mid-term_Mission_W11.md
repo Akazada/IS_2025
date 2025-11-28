@@ -2,3 +2,10 @@
 <img width="820" height="700" alt="image" src="https://github.com/user-attachments/assets/ec9aaa5c-11ff-4cfa-9f6f-53a039f185cd" />
 <img width="1600" height="1600" alt="task_category_pie" src="https://github.com/user-attachments/assets/925b11ec-5777-4939-9c23-0bca40bb5ae4" />
 <img width="2000" height="1000" alt="daily_bar_chart" src="https://github.com/user-attachments/assets/4d35de5a-e066-499f-8e8d-ea606dd5939a" />
+<img width="559" height="618" alt="image" src="https://github.com/user-attachments/assets/a103c2f2-59c1-42f8-bdd8-205361436842" />
+<img width="789" height="417" alt="image" src="https://github.com/user-attachments/assets/90f86dab-5ce8-4429-b6b6-9b8b65dc2cb7" />
+<img width="1032" height="627" alt="image" src="https://github.com/user-attachments/assets/0cf93c22-aed3-4a0e-9a25-5ecaadfd8079" />
+<img width="795" height="471" alt="image" src="https://github.com/user-attachments/assets/27bb514d-c793-4e38-9b74-3c8b0da2bce6" />
+<img width="798" height="488" alt="image" src="https://github.com/user-attachments/assets/b7e5c70f-8b48-414c-bb63-65102647467d" />
+<img width="836" height="762" alt="image" src="https://github.com/user-attachments/assets/758f3b95-00a3-4175-b046-426c2b398327" />
+<img width="798" height="472" alt="image" src="https://github.com/user-attachments/assets/158e1640-2777-44c7-b287-c59489431b87" />
