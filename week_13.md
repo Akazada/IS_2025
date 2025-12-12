@@ -1,4 +1,4 @@
-### Mind mapping
+### VPN? and How Does It Work
 <img width="908" height="724" alt="image" src="https://github.com/user-attachments/assets/e75cd89e-7322-4c9e-9d84-e25714b85a31" />
 <img width="919" height="626" alt="image" src="https://github.com/user-attachments/assets/d4e545a9-ccd6-4f6a-aa00-c2865ca3d2fb" />
 <img width="1849" height="734" alt="image" src="https://github.com/user-attachments/assets/0aeaaee6-636f-4019-bdc9-8f2e36c972d2" />
